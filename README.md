@@ -1,2 +1,1 @@
-# Text-classification-using-naive-bayes-approach
-
+This classifier, commonly used for sentiment analysis, employs the Naive Bayes approach to classify text as positive, negative, or neutral. The Naive Bayes algorithm is well-suited for text classification tasks because it assumes that the presence of a particular feature in a class is independent of the presence of other features. Despite this simplifying assumption, Naive Bayes performs well in practice, especially for problems like sentiment analysis, where understanding the general distribution of words is more important than complex relationships between them.This classifier is bases on Multinomial Naive Bayes.
